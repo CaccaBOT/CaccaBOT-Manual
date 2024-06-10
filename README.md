@@ -1,27 +1,29 @@
-# LA CACCSTITUZIONE (Rev 2)
+<!-- TOC --><a name="la-caccstituzione-rev-3"></a>
+# LA CACCSTITUZIONE (Rev 3)
 
-- [LA CACCSTITUZIONE (Rev 2)](#la-caccstituzione-rev-2)
-  - [1) INTRODUZIONE](#1-introduzione)
-  - [2) DISTINGUERE UNA CAGATA](#2-distinguere-una-cagata)
-    - [2.1) COSA È UNA CAGATA](#21-cosa-è-una-cagata)
-    - [2.1.1) INIZIO DELLA CAGATA](#211-inizio-della-cagata)
-    - [2.1.2) ATTO DELLA CAGATA](#212-atto-della-cagata)
-    - [2.1.3) FINE DELLA CAGATA](#213-fine-della-cagata)
-    - [2.1.4) PULIZIA DELLA CAGATA](#214-pulizia-della-cagata)
-    - [2.2) DISTINZIONE TRA PIÙ CAGATE](#22-distinzione-tra-più-cagate)
-      - [2.2.1) PER VOLUME](#221-per-volume)
-      - [2.2.2) PER CONSISTENZA](#222-per-consistenza)
-      - [2.2.3) PER TEMPO](#223-per-tempo)
-    - [2.3) CASI PARTICOLARI](#23-casi-particolari)
-  - [3) QUANDO DOVER AGGIORNARE CON UNA NUOVA CAGATA](#3-quando-dover-aggiornare-con-una-nuova-cagata)
-  - [4) REGOLAMENTAZIONE CASI DI FRODE](#4-regolamentazione-casi-di-frode)
-    - [4.1) L’AGENZIA DELLE CAGATE](#41-lagenzia-delle-cagate)
-    - [4.2) IL RUOLO DELL'AGENZIA DELLE CAGATE](#42-il-ruolo-dellagenzia-delle-cagate)
-    - [4.3) IL CODICE CAGALE](#43-il-codice-cagale)
-  - [5) CREDITI](#5-crediti)
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [LA CACCSTITUZIONE (Rev 3)](#la-caccstituzione-rev-3)
+   * [1) INTRODUZIONE](#1-introduzione)
+   * [2) DISTINGUERE UNA CAGATA](#2-distinguere-una-cagata)
+      + [2.1) COSA È UNA CAGATA](#21-cosa-è-una-cagata)
+      + [2.1.1) INIZIO DELLA CAGATA](#211-inizio-della-cagata)
+      + [2.1.2) ATTO DELLA CAGATA](#212-atto-della-cagata)
+      + [2.1.3) FINE DELLA CAGATA](#213-fine-della-cagata)
+      + [2.1.4) PULIZIA DELLA CAGATA](#214-pulizia-della-cagata)
+      + [2.2) DISTINZIONE TRA PIÙ CAGATE](#22-distinzione-tra-più-cagate)
+         - [2.2.1) PER VOLUME](#221-per-volume)
+         - [2.2.2) PER CONSISTENZA](#222-per-consistenza)
+         - [2.2.3) PER TEMPO](#223-per-tempo)
+      + [2.3) CASI PARTICOLARI](#23-casi-particolari)
+   * [3) QUANDO DOVER AGGIORNARE CON UNA NUOVA CAGATA](#3-quando-dover-aggiornare-con-una-nuova-cagata)
+   * [4) REGOLAMENTAZIONE CASI DI FRODE](#4-regolamentazione-casi-di-frode)
+      + [4.1) L’AGENZIA DELLE CAGATE](#41-lagenzia-delle-cagate)
+         - [4.1.1) IL RUOLO DELL'AGENZIA DELLE CAGATE](#411-il-ruolo-dellagenzia-delle-cagate)
+      + [4.2) IL CODICE CAGALE](#42-il-codice-cagale)
+   * [5) CREDITI](#5-crediti)
 
 <!-- TOC end -->
-
 
 <!-- TOC --><a name="1-introduzione"></a>
 ## 1) INTRODUZIONE
@@ -112,13 +114,13 @@ I casi di frode di cagate sono regolamentati dall’_agenzia delle cagate_ attra
 L'agenzia delle cagate è un ente abilitato alla verifica delle attività intestinali di tutti i contribuenti.
 In genere, essa svolge controlli soltanto in casi sospetti o poco chiari.
 
-<!-- TOC --><a name="42-il-ruolo-dellagenzia-delle-cagate"></a>
-### 4.2) IL RUOLO DELL'AGENZIA DELLE CAGATE
+<!-- TOC --><a name="411-il-ruolo-dellagenzia-delle-cagate"></a>
+#### 4.1.1) IL RUOLO DELL'AGENZIA DELLE CAGATE
 L'Agenzia delle Cagate è un organo fondamentale per il progetto CaccaBOT poichè si assicura che tutti i contribuenti stiano dichiarando correttamente le proprie cacche.
 Essa si riserva il diritto di richiedere contenuti multimediali ai contribuenti per dare prova delle loro attività intestinali.
 
-<!-- TOC --><a name="43-il-codice-cagale"></a>
-### 4.3) IL CODICE CAGALE
+<!-- TOC --><a name="42-il-codice-cagale"></a>
+### 4.2) IL CODICE CAGALE
 La pena inflitta a coloro che dichiarano il falso è la rimozione delle cacche dichiarate a proprio nome, ed in casi più gravi, il congelamento della possibilità di dichiarare nuove cagate.
 
 <!-- TOC --><a name="5-crediti"></a>
