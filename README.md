@@ -1,3 +1,7 @@
+
+<!-- TOC --><a name="la-caccstituzione-rev-4"></a>
+# LA CACCSTITUZIONE (Rev 4)
+
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [LA CACCSTITUZIONE (Rev 4)](#la-caccstituzione-rev-4)
@@ -25,10 +29,6 @@
    * [5) CREDITI](#5-crediti)
 
 <!-- TOC end -->
-
-
-<!-- TOC --><a name="la-caccstituzione-rev-4"></a>
-# LA CACCSTITUZIONE (Rev 4)
 
 <!-- TOC --><a name="1-introduzione"></a>
 ## 1) INTRODUZIONE
