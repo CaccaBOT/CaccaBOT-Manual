@@ -1,10 +1,10 @@
 
-<!-- TOC --><a name="la-caccstituzione-rev-4"></a>
-# LA CACCSTITUZIONE (Rev 4)
+<!-- TOC --><a name="la-caccstituzione-rev-5"></a>
+# LA CACCSTITUZIONE (Rev 5)
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-- [LA CACCSTITUZIONE (Rev 4)](#la-caccstituzione-rev-4)
+- [LA CACCSTITUZIONE (Rev 5)](#la-caccstituzione-rev-5)
    * [1) INTRODUZIONE](#1-introduzione)
    * [2) DISTINGUERE UNA CAGATA](#2-distinguere-una-cagata)
       + [2.1) COSA È UNA CAGATA](#21-cosa-è-una-cagata)
@@ -21,14 +21,48 @@
          - [2.3.2) PER CONSISTENZA](#232-per-consistenza)
          - [2.3.3) PER TEMPO](#233-per-tempo)
       + [2.4) CASI PARTICOLARI](#24-casi-particolari)
+         - [2.4.1) CLAUSOLE PRECEDENTEMENTE DESCRITTE](#241-clausole-precedentemente-descritte)
+         - [2.4.2) CLAUSOLE AGGIUNTIVE](#242-clausole-aggiuntive)
+            * [2.4.2.1) PER DELIMITAZIONE](#2421-per-delimitazione)
+            * [2.4.2.2) PER TEMPO](#2422-per-tempo)
    * [3) QUANDO DOVER AGGIORNARE CON UNA NUOVA CAGATA](#3-quando-dover-aggiornare-con-una-nuova-cagata)
    * [4) REGOLAMENTAZIONE CASI DI FRODE](#4-regolamentazione-casi-di-frode)
       + [4.1) L’AGENZIA DELLE CAGATE](#41-lagenzia-delle-cagate)
          - [4.1.1) IL RUOLO DELL'AGENZIA DELLE CAGATE](#411-il-ruolo-dellagenzia-delle-cagate)
       + [4.2) IL CODICE CAGALE](#42-il-codice-cagale)
-   * [5) CREDITI](#5-crediti)
+   * [5) COLLEZIONABILI](#5-collezionabili)
+   * [6) INDICE ANALITICO](#6-indice-analitico)
+      + [CARATTERI SPECIALI](#caratteri-speciali)
+      + [A](#a)
+      + [B](#b)
+      + [C](#c)
+      + [D](#d)
+      + [E](#e)
+      + [F](#f)
+      + [G](#g)
+      + [H](#h)
+      + [I](#i)
+      + [J](#j)
+      + [K](#k)
+      + [L](#l)
+      + [M](#m)
+      + [N](#n)
+      + [O](#o)
+      + [P](#p)
+      + [Q](#q)
+      + [R](#r)
+      + [S](#s)
+      + [T](#t)
+      + [U](#u)
+      + [V](#v)
+      + [W](#w)
+      + [X](#x)
+      + [Y](#y)
+      + [Z](#z)
+   * [7) CREDITI](#7-crediti)
 
 <!-- TOC end -->
+
 
 <!-- TOC --><a name="1-introduzione"></a>
 ## 1) INTRODUZIONE
@@ -138,8 +172,34 @@ Il tempo è considerabile sono nell'arco di un unico _Atto della cagata_, univoc
 <!-- TOC --><a name="24-casi-particolari"></a>
 ### 2.4) CASI PARTICOLARI
 
+In questa sezione, saranno descritti casi particolari in cui una cagata debba essere considerata tale e altri in cui no.
+
+<!-- TOC --><a name="241-clausole-precedentemente-descritte"></a>
+#### 2.4.1) CLAUSOLE PRECEDENTEMENTE DESCRITTE
+
+Per prima cosa, ogni cagata che non rientra in almeno una delle tabelle descritte in _Distinzione tra più cagate, sez. 2.3_ non può essere considerata tale.
+
+Inoltre, una cagata, come descritto in dettaglio in _Cosa è una cagata, sez. 2.1_, deve essere delimitata dall'_Inizio della cagata_ e dalla _Fine della cagata_. Se la prima è eseguita, la cagata allora finirà solo quando l'ultima sarà eseguita.
+
+<!-- TOC --><a name="242-clausole-aggiuntive"></a>
+#### 2.4.2) CLAUSOLE AGGIUNTIVE
+
+<!-- TOC --><a name="2421-per-delimitazione"></a>
+##### 2.4.2.1) PER DELIMITAZIONE
+
+Una cagata si può considerare tale anche se non delimitata dall'_Inizio della cagata_ e dalla _Fine della cagata_ in caso: se nessuno dei due è eseguito. Se non è eseguito l'_Inizio della cagata_ allora la _Fine della cagata_ potrà non essere eseguita (come si può facilmente intuire), mentre riguardo il contrario allora l'atto non sarà considerato una cagata.
+
+<!-- TOC --><a name="2422-per-tempo"></a>
+##### 2.4.2.2) PER TEMPO
+
+Una cagata non può essere considerata tale se viene fatta a distanza di 1s da un'altra (nel caso in cui venisse eseguita e venisse registrata, l'_Agenzia delle Cagate_ si attiverebbe).
+
 <!-- TOC --><a name="3-quando-dover-aggiornare-con-una-nuova-cagata"></a>
 ## 3) QUANDO DOVER AGGIORNARE CON UNA NUOVA CAGATA
+
+Ogni cagata è preferibile che venga aggiornata nel momento dell'_Inizio dell'atto_ (di modo che l'_Agenzia delle Cagate_ possa eventualmente richiedere unna prova multimediale della cagata in tempo reale), ma comunque è possibile aggiornare una cagata entro le successive 00:00 o entro 30 min.
+
+È buona pratica riferire agli altri membri (o ad un _Moderatore_) se la cagata inserita è stata fatta relativamente tanto tempo prima, ma non è comunque punibile dall'_Agenzia delle Cagate_.
 
 <!-- TOC --><a name="4-regolamentazione-casi-di-frode"></a>
 ## 4) REGOLAMENTAZIONE CASI DI FRODE
@@ -160,8 +220,71 @@ Essa si riserva il diritto di richiedere contenuti multimediali ai contribuenti 
 ### 4.2) IL CODICE CAGALE
 La pena inflitta a coloro che dichiarano il falso è la rimozione delle cacche dichiarate a proprio nome, ed in casi più gravi, il congelamento della possibilità di dichiarare nuove cagate.
 
-<!-- TOC --><a name="5-crediti"></a>
-## 5) CREDITI
+<!-- TOC --><a name="5-collezionabili"></a>
+## 5) COLLEZIONABILI
+
+
+
+<!-- TOC --><a name="6-indice-analitico"></a>
+## 6) INDICE ANALITICO
+
+<!-- TOC --><a name="caratteri-speciali"></a>
+### CARATTERI SPECIALI
+<!-- TOC --><a name="a"></a>
+### A
+<!-- TOC --><a name="b"></a>
+### B
+<!-- TOC --><a name="c"></a>
+### C
+<!-- TOC --><a name="d"></a>
+### D
+<!-- TOC --><a name="e"></a>
+### E
+<!-- TOC --><a name="f"></a>
+### F
+<!-- TOC --><a name="g"></a>
+### G
+<!-- TOC --><a name="h"></a>
+### H
+<!-- TOC --><a name="i"></a>
+### I
+<!-- TOC --><a name="j"></a>
+### J
+<!-- TOC --><a name="k"></a>
+### K
+<!-- TOC --><a name="l"></a>
+### L
+<!-- TOC --><a name="m"></a>
+### M
+<!-- TOC --><a name="n"></a>
+### N
+<!-- TOC --><a name="o"></a>
+### O
+<!-- TOC --><a name="p"></a>
+### P
+<!-- TOC --><a name="q"></a>
+### Q
+<!-- TOC --><a name="r"></a>
+### R
+<!-- TOC --><a name="s"></a>
+### S
+<!-- TOC --><a name="t"></a>
+### T
+<!-- TOC --><a name="u"></a>
+### U
+<!-- TOC --><a name="v"></a>
+### V
+<!-- TOC --><a name="w"></a>
+### W
+<!-- TOC --><a name="x"></a>
+### X
+<!-- TOC --><a name="y"></a>
+### Y
+<!-- TOC --><a name="z"></a>
+### Z
+
+<!-- TOC --><a name="7-crediti"></a>
+## 7) CREDITI
 
 Questo documento è stato stilato dai seguenti contributori:
 - Benassai Samuele
