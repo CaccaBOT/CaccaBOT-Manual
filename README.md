@@ -1,65 +1,39 @@
 
-<!-- TOC --><a name="la-caccstituzione-rev-5"></a>
-# LA CACCSTITUZIONE (Rev 5)
+<!-- TOC --><a name="la-caccstituzione-rev-5.5"></a>
+# LA CACCSTITUZIONE (Rev 5.5)
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-- [LA CACCSTITUZIONE (Rev 5)](#la-caccstituzione-rev-5)
-   * [1) INTRODUZIONE](#1-introduzione)
-   * [2) DISTINGUERE UNA CAGATA](#2-distinguere-una-cagata)
-      + [2.1) COSA È UNA CAGATA](#21-cosa-è-una-cagata)
-         - [2.1.1) INIZIO DELLA CAGATA](#211-inizio-della-cagata)
-         - [2.1.2) ATTO DELLA CAGATA](#212-atto-della-cagata)
-         - [2.1.3) FINE DELLA CAGATA](#213-fine-della-cagata)
-         - [2.1.4) PULIZIA DELLA CAGATA](#214-pulizia-della-cagata)
-      + [2.2) I SINGOLI TIPI DI CAGATA](#22-i-singoli-tipi-di-cagata)
-         - [2.2.1) SEGMENTO](#221-segmento)
-         - [2.2.2) GETTO](#222-getto)
-         - [2.2.3) FLATULENZA](#223-flatulenza)
-      + [2.3) DISTINZIONE TRA PIÙ CAGATE](#23-distinzione-tra-più-cagate)
-         - [2.3.1) PER VOLUME](#231-per-volume)
-         - [2.3.2) PER CONSISTENZA](#232-per-consistenza)
-         - [2.3.3) PER TEMPO](#233-per-tempo)
-      + [2.4) CASI PARTICOLARI](#24-casi-particolari)
-         - [2.4.1) CLAUSOLE PRECEDENTEMENTE DESCRITTE](#241-clausole-precedentemente-descritte)
-         - [2.4.2) CLAUSOLE AGGIUNTIVE](#242-clausole-aggiuntive)
-            * [2.4.2.1) PER DELIMITAZIONE](#2421-per-delimitazione)
-            * [2.4.2.2) PER TEMPO](#2422-per-tempo)
-   * [3) QUANDO DOVER AGGIORNARE CON UNA NUOVA CAGATA](#3-quando-dover-aggiornare-con-una-nuova-cagata)
-   * [4) REGOLAMENTAZIONE CASI DI FRODE](#4-regolamentazione-casi-di-frode)
-      + [4.1) L’AGENZIA DELLE CAGATE](#41-lagenzia-delle-cagate)
-         - [4.1.1) IL RUOLO DELL'AGENZIA DELLE CAGATE](#411-il-ruolo-dellagenzia-delle-cagate)
-      + [4.2) IL CODICE CAGALE](#42-il-codice-cagale)
-   * [5) COLLEZIONABILI](#5-collezionabili)
-   * [6) INDICE ANALITICO](#6-indice-analitico)
-      + [CARATTERI SPECIALI](#caratteri-speciali)
-      + [A](#a)
-      + [B](#b)
-      + [C](#c)
-      + [D](#d)
-      + [E](#e)
-      + [F](#f)
-      + [G](#g)
-      + [H](#h)
-      + [I](#i)
-      + [J](#j)
-      + [K](#k)
-      + [L](#l)
-      + [M](#m)
-      + [N](#n)
-      + [O](#o)
-      + [P](#p)
-      + [Q](#q)
-      + [R](#r)
-      + [S](#s)
-      + [T](#t)
-      + [U](#u)
-      + [V](#v)
-      + [W](#w)
-      + [X](#x)
-      + [Y](#y)
-      + [Z](#z)
-   * [7) CREDITI](#7-crediti)
+- [1) INTRODUZIONE](#1-introduzione)
+- [2) DISTINGUERE UNA CAGATA](#2-distinguere-una-cagata)
+   * [2.1) COSA È UNA CAGATA](#21-cosa-è-una-cagata)
+      + [2.1.1) INIZIO DELLA CAGATA](#211-inizio-della-cagata)
+      + [2.1.2) ATTO DELLA CAGATA](#212-atto-della-cagata)
+      + [2.1.3) FINE DELLA CAGATA](#213-fine-della-cagata)
+      + [2.1.4) PULIZIA DELLA CAGATA](#214-pulizia-della-cagata)
+   * [2.2) I SINGOLI TIPI DI CAGATA](#22-i-singoli-tipi-di-cagata)
+      + [2.2.1) SEGMENTO](#221-segmento)
+      + [2.2.2) GETTO](#222-getto)
+      + [2.2.3) FLATULENZA](#223-flatulenza)
+   * [2.3) DISTINZIONE TRA PIÙ CAGATE](#23-distinzione-tra-più-cagate)
+      + [2.3.1) PER VOLUME](#231-per-volume)
+      + [2.3.2) PER CONSISTENZA](#232-per-consistenza)
+      + [2.3.3) PER TEMPO](#233-per-tempo)
+   * [2.4) CASI PARTICOLARI](#24-casi-particolari)
+      + [2.4.1) CLAUSOLE PRECEDENTEMENTE DESCRITTE](#241-clausole-precedentemente-descritte)
+      + [2.4.2) CLAUSOLE AGGIUNTIVE](#242-clausole-aggiuntive)
+         - [2.4.2.1) PER DELIMITAZIONE](#2421-per-delimitazione)
+         - [2.4.2.2) PER TEMPO](#2422-per-tempo)
+- [3) QUANDO DOVER AGGIORNARE CON UNA NUOVA CAGATA](#3-quando-dover-aggiornare-con-una-nuova-cagata)
+- [4) REGOLAMENTAZIONE CASI DI FRODE](#4-regolamentazione-casi-di-frode)
+   * [4.1) GLI ORGANI SFINTERICI](#41-gli-organi-sfinterici)
+      + [4.1.1) L’AGENZIA DELLE CAGATE](#411-lagenzia-delle-cagate)
+         - [4.1.1.1) IL RUOLO DELL'AGENZIA DELLE CAGATE](#4111-il-ruolo-dellagenzia-delle-cagate)
+      + [4.1.2) IL TRIBUANALE](#412-il-tribuanale)
+   * [4.2) IL CODICE CAGALE](#42-il-codice-cagale)
+   * [4.3) I DECRETI CAGALI](#43-i-decreti-cagali)
+- [5) COLLEZIONABILI](#5-collezionabili)
+- [6) CREDITI](#6-crediti)
 
 <!-- TOC end -->
 
@@ -204,88 +178,46 @@ Ogni cagata è preferibile che venga aggiornata nel momento dell'_Inizio dell'at
 <!-- TOC --><a name="4-regolamentazione-casi-di-frode"></a>
 ## 4) REGOLAMENTAZIONE CASI DI FRODE
 
-I casi di frode di cagate sono regolamentati dall’_agenzia delle cagate_ attraverso il codice cagale.
+I casi di frode di cagate sono regolamentati dall’_agenzia delle cagate_ attraverso il codice cagale, secondo il _Codice Cagale, sez. 4.2_ ed eventuali ulteriori _Decreti Cagali_, regolamentati dalla sezione _I Decreti Cagali, sez. 4.3_. Qualunque iniziativa presa personalmente da un merdbro, senza essere descritta dalla Caccstituzione né in un _Decreto Cagale_ è oggetto di persecuzione della persona da parte del _Tribuanale_ (che però in casi non troppo gravi non si attiverà neanche).
 
-<!-- TOC --><a name="41-lagenzia-delle-cagate"></a>
-### 4.1) L’AGENZIA DELLE CAGATE
+<!-- TOC --><a name="41-gli-organi-sfinterici"></a>
+### 4.1) GLI ORGANI SFINTERICI
+
+Gli _Organi Sfinterici_ sono gli organi necessari per la corretta gestione
+del progetto CaccaBOT. Il loro potere, nei rispettivi campi, è assoluto, con unico limite i membri stessi e la _Caccstituzione_ stessa.
+
+Nessun _Organo Sfinterico_ può essere composto da una sola persona, e votazioni periodiche dei membri devono essere eseguite.
+
+<!-- TOC --><a name="411-lagenzia-delle-cagate"></a>
+#### 4.1.1) L’AGENZIA DELLE CAGATE
+
 L'agenzia delle cagate è un ente abilitato alla verifica delle attività intestinali di tutti i contribuenti.
 In genere, essa svolge controlli soltanto in casi sospetti o poco chiari.
 
-<!-- TOC --><a name="411-il-ruolo-dellagenzia-delle-cagate"></a>
-#### 4.1.1) IL RUOLO DELL'AGENZIA DELLE CAGATE
+<!-- TOC --><a name="4111-il-ruolo-dellagenzia-delle-cagate"></a>
+##### 4.1.1.1) IL RUOLO DELL'AGENZIA DELLE CAGATE
+
 L'Agenzia delle Cagate è un organo fondamentale per il progetto CaccaBOT poichè si assicura che tutti i contribuenti stiano dichiarando correttamente le proprie cacche.
 Essa si riserva il diritto di richiedere contenuti multimediali ai contribuenti per dare prova delle loro attività intestinali.
 
+<!-- TOC --><a name="412-il-tribuanale"></a>
+#### 4.1.2) IL TRIBUANALE
+
 <!-- TOC --><a name="42-il-codice-cagale"></a>
 ### 4.2) IL CODICE CAGALE
+
 La pena inflitta a coloro che dichiarano il falso è la rimozione delle cacche dichiarate a proprio nome, ed in casi più gravi, il congelamento della possibilità di dichiarare nuove cagate.
+
+<!-- TOC --><a name="43-i-decreti-cagali"></a>
+### 4.3) I DECRETI CAGALI
 
 <!-- TOC --><a name="5-collezionabili"></a>
 ## 5) COLLEZIONABILI
 
-
-
-<!-- TOC --><a name="6-indice-analitico"></a>
-## 6) INDICE ANALITICO
-
-<!-- TOC --><a name="caratteri-speciali"></a>
-### CARATTERI SPECIALI
-<!-- TOC --><a name="a"></a>
-### A
-<!-- TOC --><a name="b"></a>
-### B
-<!-- TOC --><a name="c"></a>
-### C
-<!-- TOC --><a name="d"></a>
-### D
-<!-- TOC --><a name="e"></a>
-### E
-<!-- TOC --><a name="f"></a>
-### F
-<!-- TOC --><a name="g"></a>
-### G
-<!-- TOC --><a name="h"></a>
-### H
-<!-- TOC --><a name="i"></a>
-### I
-<!-- TOC --><a name="j"></a>
-### J
-<!-- TOC --><a name="k"></a>
-### K
-<!-- TOC --><a name="l"></a>
-### L
-<!-- TOC --><a name="m"></a>
-### M
-<!-- TOC --><a name="n"></a>
-### N
-<!-- TOC --><a name="o"></a>
-### O
-<!-- TOC --><a name="p"></a>
-### P
-<!-- TOC --><a name="q"></a>
-### Q
-<!-- TOC --><a name="r"></a>
-### R
-<!-- TOC --><a name="s"></a>
-### S
-<!-- TOC --><a name="t"></a>
-### T
-<!-- TOC --><a name="u"></a>
-### U
-<!-- TOC --><a name="v"></a>
-### V
-<!-- TOC --><a name="w"></a>
-### W
-<!-- TOC --><a name="x"></a>
-### X
-<!-- TOC --><a name="y"></a>
-### Y
-<!-- TOC --><a name="z"></a>
-### Z
-
-<!-- TOC --><a name="7-crediti"></a>
-## 7) CREDITI
+<!-- TOC --><a name="6-crediti"></a>
+## 6) CREDITI
 
 Questo documento è stato stilato dai seguenti contributori:
 - Benassai Samuele
 - Di Carlo Leonardo
+- Alderighi Damiano
