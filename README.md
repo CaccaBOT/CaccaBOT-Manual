@@ -1,42 +1,55 @@
 
-<!-- TOC --><a name="la-caccstituzione-rev-5.5"></a>
+<!-- TOC --><a name="la-caccstituzione-rev-6"></a>
 # LA CACCSTITUZIONE (Rev 6)
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-- [1) INTRODUZIONE](#1-introduzione)
-- [2) DISTINGUERE UNA CAGATA](#2-distinguere-una-cagata)
-   * [2.1) COSA È UNA CAGATA](#21-cosa-è-una-cagata)
-      + [2.1.1) INIZIO DELLA CAGATA](#211-inizio-della-cagata)
-      + [2.1.2) ATTO DELLA CAGATA](#212-atto-della-cagata)
-      + [2.1.3) FINE DELLA CAGATA](#213-fine-della-cagata)
-      + [2.1.4) PULIZIA DELLA CAGATA](#214-pulizia-della-cagata)
-   * [2.2) I SINGOLI TIPI DI CAGATA](#22-i-singoli-tipi-di-cagata)
-      + [2.2.1) SEGMENTO](#221-segmento)
-      + [2.2.2) GETTO](#222-getto)
-      + [2.2.3) FLATULENZA](#223-flatulenza)
-   * [2.3) DISTINZIONE TRA PIÙ CAGATE](#23-distinzione-tra-più-cagate)
-      + [2.3.1) PER VOLUME](#231-per-volume)
-      + [2.3.2) PER CONSISTENZA](#232-per-consistenza)
-      + [2.3.3) PER TEMPO](#233-per-tempo)
-   * [2.4) CASI PARTICOLARI](#24-casi-particolari)
-      + [2.4.1) CLAUSOLE PRECEDENTEMENTE DESCRITTE](#241-clausole-precedentemente-descritte)
-      + [2.4.2) CLAUSOLE AGGIUNTIVE](#242-clausole-aggiuntive)
-         - [2.4.2.1) PER DELIMITAZIONE](#2421-per-delimitazione)
-         - [2.4.2.2) PER TEMPO](#2422-per-tempo)
-- [3) QUANDO DOVER AGGIORNARE CON UNA NUOVA CAGATA](#3-quando-dover-aggiornare-con-una-nuova-cagata)
-- [4) REGOLAMENTAZIONE CASI DI FRODE](#4-regolamentazione-casi-di-frode)
-   * [4.1) GLI ORGANI SFINTERICI](#41-gli-organi-sfinterici)
-      + [4.1.1) L’AGENZIA DELLE CAGATE](#411-lagenzia-delle-cagate)
-         - [4.1.1.1) IL RUOLO DELL'AGENZIA DELLE CAGATE](#4111-il-ruolo-dellagenzia-delle-cagate)
-      + [4.1.2) IL TRIBUANALE](#412-il-tribuanale)
-   * [4.2) IL CODICE CAGALE](#42-il-codice-cagale)
-   * [4.3) I DECRETI CAGALI](#43-i-decreti-cagali)
-- [5) COLLEZIONABILI](#5-collezionabili)
-- [6) CREDITI](#6-crediti)
+- [LA CACCSTITUZIONE (Rev 6)](#la-caccstituzione-rev-6)
+   * [1) INTRODUZIONE](#1-introduzione)
+   * [2) DISTINGUERE UNA CAGATA](#2-distinguere-una-cagata)
+      + [2.1) COSA È UNA CAGATA](#21-cosa-è-una-cagata)
+         - [2.1.1) INIZIO DELLA CAGATA](#211-inizio-della-cagata)
+         - [2.1.2) ATTO DELLA CAGATA](#212-atto-della-cagata)
+         - [2.1.3) FINE DELLA CAGATA](#213-fine-della-cagata)
+         - [2.1.4) PULIZIA DELLA CAGATA](#214-pulizia-della-cagata)
+      + [2.2) I SINGOLI TIPI DI CAGATA](#22-i-singoli-tipi-di-cagata)
+         - [2.2.1) SEGMENTO](#221-segmento)
+         - [2.2.2) GETTO](#222-getto)
+         - [2.2.3) FLATULENZA](#223-flatulenza)
+      + [2.3) DISTINZIONE TRA PIÙ CAGATE](#23-distinzione-tra-più-cagate)
+         - [2.3.1) PER VOLUME](#231-per-volume)
+         - [2.3.2) PER CONSISTENZA](#232-per-consistenza)
+         - [2.3.3) PER TEMPO](#233-per-tempo)
+      + [2.4) CASI PARTICOLARI](#24-casi-particolari)
+         - [2.4.1) CLAUSOLE PRECEDENTEMENTE DESCRITTE](#241-clausole-precedentemente-descritte)
+         - [2.4.2) CLAUSOLE AGGIUNTIVE](#242-clausole-aggiuntive)
+            * [2.4.2.1) PER DELIMITAZIONE](#2421-per-delimitazione)
+            * [2.4.2.2) PER TEMPO](#2422-per-tempo)
+   * [3) QUANDO DOVER AGGIORNARE CON UNA NUOVA CAGATA](#3-quando-dover-aggiornare-con-una-nuova-cagata)
+   * [4) REGOLAMENTAZIONE CASI DI FRODE](#4-regolamentazione-casi-di-frode)
+      + [4.1) GLI ORGANI SFINTERICI](#41-gli-organi-sfinterici)
+         - [4.1.1) L’AGENZIA DELLE CAGATE](#411-lagenzia-delle-cagate)
+            * [4.1.1.1) IL RUOLO DELL'AGENZIA DELLE CAGATE](#4111-il-ruolo-dellagenzia-delle-cagate)
+            * [4.1.1.2) I MEMBRI DELL'AGENZIA DELLE CAGATE](#4112-i-membri-dellagenzia-delle-cagate)
+         - [4.1.2) IL TRIBUANALE](#412-il-tribuanale)
+            * [4.1.2.1) I MEMBRI DEL TRIBUANALE](#4121-i-membri-del-tribuanale)
+      + [4.2) IL CODICE CAGALE](#42-il-codice-cagale)
+         - [4.2.1) CASI NON DIRETTAMENTE REGOLAMENTATI](#421-casi-non-direttamente-regolamentati)
+         - [4.2.2) INFRAZIONI MINORI](#422-infrazioni-minori)
+            * [4.2.2.1) RICHIESTA DI INVIO IMMEDIATO](#4221-richiesta-di-invio-immediato)
+            * [4.2.2.2) RICHIESTA DI INVIO CONTINUATO](#4222-richiesta-di-invio-continuato)
+         - [4.2.3) INFRAZIONI MAGGIORI](#423-infrazioni-maggiori)
+            * [4.2.3.1) FREEZING DELLE CAGATE](#4231-freezing-delle-cagate)
+            * [4.2.3.2) RIMOZIONE DELLE CAGATE](#4232-rimozione-delle-cagate)
+            * [4.2.3.3) RIMOZIONE DELL'ACCOUNT](#4233-rimozione-dellaccount)
+               + [4.2.3.3.1) LA PURGA MENSILE](#42331-la-purga-mensile)
+            * [4.2.3.4) BAN DELL'UTENTE](#4234-ban-dellutente)
+      + [4.3) I DECRETI CAGALI](#43-i-decreti-cagali)
+   * [5) COLLEZIONABILI](#5-collezionabili)
+   * [6) MODIFICHE DELLA CACCSTITUZIONE](#6-modifiche-della-caccstituzione)
+   * [7) CREDITI](#7-crediti)
 
 <!-- TOC end -->
-
 
 <!-- TOC --><a name="1-introduzione"></a>
 ## 1) INTRODUZIONE
@@ -206,6 +219,7 @@ Essa si riserva il diritto di richiedere contenuti multimediali ai contribuenti 
 ** BOZZA **
 ***********
 
+<!-- TOC --><a name="4112-i-membri-dellagenzia-delle-cagate"></a>
 ##### 4.1.1.2) I MEMBRI DELL'AGENZIA DELLE CAGATE
 
 L'Agenzia delle Cagate è composto da un numero variabile di persone.
@@ -222,6 +236,7 @@ Il Tribuanale è un altro organo ufficiale del progetto CaccaBOT.
 Ad esso è assegnato il potere di decidere le pene assegnate a coloro che infrangono regole dettate dalla _Caccstituzione_ in casi non direttamente descritti dal _Codice Cagale, sez. 4.2_.
 
 <!--
+<!-- TOC --><a name="4121-i-membri-del-tribuanale"></a>
 ##### 4.1.2.1) I MEMBRI DEL TRIBUANALE
 
 -->
@@ -232,51 +247,61 @@ Ad esso è assegnato il potere di decidere le pene assegnate a coloro che infran
 Il Codice Cagale è il documento da consultare in caso di infrazioni da parte di un membro del progetto CaccaBOT.
 Di seguito, saranno descritti una serie di pene.
 
+<!-- TOC --><a name="421-casi-non-direttamente-regolamentati"></a>
 #### 4.2.1) CASI NON DIRETTAMENTE REGOLAMENTATI
 
 Ogni caso non descritto direttamente dal Codice Cagale deve essere trattato personalmente dal _Tribuanale_ e, se la decisione di quell'organo lo necessita, da altri _Organi Sfinterici_.
 Il Tribuanale dovrà sempre attenersi alla Caccstituzione (perciò, se è descritto in essa, si dovrà attenere ad essa).
 Inoltre il _Tribuanale_ può decidere di aggiungere il caso come un _Decreto Cagale_, attenendosi alle procedure descritte ne _I Decreti Cagali, sez. 4.3_.
 
+<!-- TOC --><a name="422-infrazioni-minori"></a>
 #### 4.2.2) INFRAZIONI MINORI
 
 Fanno parte delle Infrazioni Minori tutte le azioni che causano una pena di bassa entità (ma comunque presente).
 
+<!-- TOC --><a name="4221-richiesta-di-invio-immediato"></a>
 ##### 4.2.2.1) RICHIESTA DI INVIO IMMEDIATO
 
 L'Agenzia delle Cagate, in casi che essa ritiene sospetti, può richiedere una fonte multimediale di una o più cagate compiute in passato.
 
+<!-- TOC --><a name="4222-richiesta-di-invio-continuato"></a>
 ##### 4.2.2.2) RICHIESTA DI INVIO CONTINUATO
 
 Di nuovo, l'Agenzia delle Cagate, in casi che essa ritiene opportuni, può richiedere che, per un periodo o per un numero di cagate specifico, un utente debba inviare prove multimediali delle cagate.
 
 Un caso comune in cui questo avviene è quando un utente non può mandare una cagata secondo una _Richiesta di Invio Immediato, sez. 4.2.2.1_ perché afferma che è avvenuta in passato e che non la ha salvata.
 
+<!-- TOC --><a name="423-infrazioni-maggiori"></a>
 #### 4.2.3) INFRAZIONI MAGGIORI
 
 Fanno parte delle Infrazioni Maggiori tutte le azioni che causano una pena di maggiore entità rispetto a quelle Minori.
 
+<!-- TOC --><a name="4231-freezing-delle-cagate"></a>
 ##### 4.2.3.1) FREEZING DELLE CAGATE
 
 L'Agenzia delle Cagate può decidere di freezare un utente (impedire di fargli inviare cagate) per un periodo di tempo determinato, se essa lo ritiene necessario.
 
+<!-- TOC --><a name="4232-rimozione-delle-cagate"></a>
 ##### 4.2.3.2) RIMOZIONE DELLE CAGATE
 
 L'Agenzia delle Cagate può decidere di rimuovere alcune cagate di un utente, se essa lo ritiene necessario.
 
 Un caso comune in cui questo avviene è quando un utente non invia cagate continuamente secondo una _Richiesta di Invio Continuato, sez. 4.2.2.2_.
 
+<!-- TOC --><a name="4233-rimozione-dellaccount"></a>
 ##### 4.2.3.3) RIMOZIONE DELL'ACCOUNT
 
 Con la rimozione dell'account, tutti i dati relativi ad esso (cagate, Merdollari, Caccarte, Username, Password) saranno cancellati dal database. Essi non potranno essere recuperati in alcun modo.
 
 Un utente che subisce la Rimozione dell'Account potrà inserire comunque una propria cagata. In tal caso, sarà creato un nuovo account su CaccaBOT da zero.
 
+<!-- TOC --><a name="42331-la-purga-mensile"></a>
 ###### 4.2.3.3.1) LA PURGA MENSILE
 
 Con il termine _La Purga Mensile_ si intende l'evento della Rimozione dell'Account che avviene dopo un mese di inattività. 
 Dopo un mese esatto di non aver segnalato cagate, l'account dell'utente in questione sarà automaticamente sottoposto alla Rimozione.
 
+<!-- TOC --><a name="4234-ban-dellutente"></a>
 ##### 4.2.3.4) BAN DELL'UTENTE
 
 In casi estremamente gravi, o in espressa richiesta della persona in questione, un utente può essere bannato dal progetto CaccaBOT e dal relativo gruppo WhatsApp. In questo caso, l'account dell'utente sarà sottoposto alla Rimozione e l'utente non potrà più segnalare una cagata, non potendo così creare un nuovo account.
@@ -290,11 +315,12 @@ La pena inflitta a coloro che dichiarano il falso è la rimozione delle cacche d
 <!-- TOC --><a name="5-collezionabili"></a>
 ## 5) COLLEZIONABILI
 
+<!-- TOC --><a name="6-modifiche-della-caccstituzione"></a>
 ## 6) MODIFICHE DELLA CACCSTITUZIONE
 
 
 
-<!-- TOC --><a name="6-crediti"></a>
+<!-- TOC --><a name="7-crediti"></a>
 ## 7) CREDITI
 
 Questo documento è stato stilato dai seguenti contributori:
