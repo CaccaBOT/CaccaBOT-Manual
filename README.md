@@ -297,7 +297,7 @@ Un utente che subisce la Rimozione dell'Account potrà inserire comunque una pro
 ###### 4.2.3.3.1) LA PURGA MENSILE
 
 Con il termine _La Purga Mensile_ si intende l'evento della Rimozione dell'Account che avviene dopo un mese di inattività. 
-Dopo un mese esatto di non aver segnalato cagate, l'account dell'utente in questione sarà automaticamente sottoposto alla Rimozione.
+Dopo un reset delle cagate, se un utente aveva 0 cagate registrate nel mese resettato, allora l'utante subirà automaticamente una Rimozione dell'Account.
 
 <!-- TOC --><a name="4234-ban-dellutente"></a>
 ##### 4.2.3.4) BAN DELL'UTENTE
