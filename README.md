@@ -1,6 +1,6 @@
 
 <!-- TOC --><a name="la-caccstituzione-rev-5.5"></a>
-# LA CACCSTITUZIONE (Rev 5.5)
+# LA CACCSTITUZIONE (Rev 6)
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
@@ -166,7 +166,7 @@ Una cagata si può considerare tale anche se non delimitata dall'_Inizio della c
 <!-- TOC --><a name="2422-per-tempo"></a>
 ##### 2.4.2.2) PER TEMPO
 
-Una cagata non può essere considerata tale se viene fatta a distanza di 1s da un'altra (nel caso in cui venisse eseguita e venisse registrata, l'_Agenzia delle Cagate_ si attiverebbe).
+Una cagata non può essere considerata tale se viene fatta a distanza di 1s o meno da un'altra (nel caso in cui venisse eseguita e registrata, l'_Agenzia delle Cagate_ si attiverebbe).
 
 <!-- TOC --><a name="3-quando-dover-aggiornare-con-una-nuova-cagata"></a>
 ## 3) QUANDO DOVER AGGIORNARE CON UNA NUOVA CAGATA
@@ -191,33 +191,113 @@ Nessun _Organo Sfinterico_ può essere composto da una sola persona, e votazioni
 <!-- TOC --><a name="411-lagenzia-delle-cagate"></a>
 #### 4.1.1) L’AGENZIA DELLE CAGATE
 
-L'agenzia delle cagate è un ente abilitato alla verifica delle attività intestinali di tutti i contribuenti.
+L'Agenzia delle Cagate è un ente abilitato alla verifica delle attività intestinali di tutti i contribuenti.
 In genere, essa svolge controlli soltanto in casi sospetti o poco chiari.
 
 <!-- TOC --><a name="4111-il-ruolo-dellagenzia-delle-cagate"></a>
 ##### 4.1.1.1) IL RUOLO DELL'AGENZIA DELLE CAGATE
 
 L'Agenzia delle Cagate è un organo fondamentale per il progetto CaccaBOT poichè si assicura che tutti i contribuenti stiano dichiarando correttamente le proprie cacche.
-Essa si riserva il diritto di richiedere contenuti multimediali ai contribuenti per dare prova delle loro attività intestinali.
+Essa si riserva il diritto di richiedere contenuti multimediali ai contribuenti per dare prova delle loro attività intestinali (entro i limiti dettati dal _Codice Cagale_).
+
+<!--
+
+***********
+** BOZZA **
+***********
+
+##### 4.1.1.2) I MEMBRI DELL'AGENZIA DELLE CAGATE
+
+L'Agenzia delle Cagate è composto da un numero variabile di persone.
+Ad ogni reset delle cagate (ogni mese) una votazione da parte di tutti i membri del progetto CaccaBOT deve essere eseguita. È valido anche astenersi dal voto.
+Ogni membro deve votare 5 membri distinti (compreso se stesso, eventualmente). I membri che hanno ottenuto più voti, fino a che si raggiungeranno metà delle votazioni totali, diventeranno i nuovi membri dell'Agenzia delle Cagate.
+Il membro tra la prima e la seconda metà delle votazioni farà parte dell'Agenzia. Se più membri in questa posizione hanno lo stesso numero di voti, tutti loro faranno parte dell'Agenzia.
+L'Agenzia deve avere un minimo di 3 persone (superando eventualmente la regola della metà dei voti).
+-->
 
 <!-- TOC --><a name="412-il-tribuanale"></a>
 #### 4.1.2) IL TRIBUANALE
 
+Il Tribuanale è un altro organo ufficiale del progetto CaccaBOT.
+Ad esso è assegnato il potere di decidere le pene assegnate a coloro che infrangono regole dettate dalla _Caccstituzione_ in casi non direttamente descritti dal _Codice Cagale, sez. 4.2_.
+
+<!--
+##### 4.1.2.1) I MEMBRI DEL TRIBUANALE
+
+-->
+
 <!-- TOC --><a name="42-il-codice-cagale"></a>
 ### 4.2) IL CODICE CAGALE
 
-La pena inflitta a coloro che dichiarano il falso è la rimozione delle cacche dichiarate a proprio nome, ed in casi più gravi, il congelamento della possibilità di dichiarare nuove cagate.
+Il Codice Cagale è il documento da consultare in caso di infrazioni da parte di un membro del progetto CaccaBOT.
+Di seguito, saranno descritti una serie di pene.
 
+#### 4.2.1) CASI NON DIRETTAMENTE REGOLAMENTATI
+
+Ogni caso non descritto direttamente dal Codice Cagale deve essere trattato personalmente dal _Tribuanale_ e, se la decisione di quell'organo lo necessita, da altri _Organi Sfinterici_.
+Il Tribuanale dovrà sempre attenersi alla Caccstituzione (perciò, se è descritto in essa, si dovrà attenere ad essa).
+Inoltre il _Tribuanale_ può decidere di aggiungere il caso come un _Decreto Cagale_, attenendosi alle procedure descritte ne _I Decreti Cagali, sez. 4.3_.
+
+#### 4.2.2) INFRAZIONI MINORI
+
+Fanno parte delle Infrazioni Minori tutte le azioni che causano una pena di bassa entità (ma comunque presente).
+
+##### 4.2.2.1) RICHIESTA DI INVIO IMMEDIATO
+
+L'Agenzia delle Cagate, in casi che essa ritiene sospetti, può richiedere una fonte multimediale di una o più cagate compiute in passato.
+
+##### 4.2.2.2) RICHIESTA DI INVIO CONTINUATO
+
+Di nuovo, l'Agenzia delle Cagate, in casi che essa ritiene opportuni, può richiedere che, per un periodo o per un numero di cagate specifico, un utente debba inviare prove multimediali delle cagate.
+
+Un caso comune in cui questo avviene è quando un utente non può mandare una cagata secondo una _Richiesta di Invio Immediato, sez. 4.2.2.1_ perché afferma che è avvenuta in passato e che non la ha salvata.
+
+#### 4.2.3) INFRAZIONI MAGGIORI
+
+Fanno parte delle Infrazioni Maggiori tutte le azioni che causano una pena di maggiore entità rispetto a quelle Minori.
+
+##### 4.2.3.1) FREEZING DELLE CAGATE
+
+L'Agenzia delle Cagate può decidere di freezare un utente (impedire di fargli inviare cagate) per un periodo di tempo determinato, se essa lo ritiene necessario.
+
+##### 4.2.3.2) RIMOZIONE DELLE CAGATE
+
+L'Agenzia delle Cagate può decidere di rimuovere alcune cagate di un utente, se essa lo ritiene necessario.
+
+Un caso comune in cui questo avviene è quando un utente non invia cagate continuamente secondo una _Richiesta di Invio Continuato, sez. 4.2.2.2_.
+
+##### 4.2.3.3) RIMOZIONE DELL'ACCOUNT
+
+Con la rimozione dell'account, tutti i dati relativi ad esso (cagate, Merdollari, Caccarte, Username, Password) saranno cancellati dal database. Essi non potranno essere recuperati in alcun modo.
+
+Un utente che subisce la Rimozione dell'Account potrà inserire comunque una propria cagata. In tal caso, sarà creato un nuovo account su CaccaBOT da zero.
+
+###### 4.2.3.3.1) LA PURGA MENSILE
+
+Con il termine _La Purga Mensile_ si intende l'evento della Rimozione dell'Account che avviene dopo un mese di inattività. 
+Dopo un mese esatto di non aver segnalato cagate, l'account dell'utente in questione sarà automaticamente sottoposto alla Rimozione.
+
+##### 4.2.3.4) BAN DELL'UTENTE
+
+In casi estremamente gravi, o in espressa richiesta della persona in questione, un utente può essere bannato dal progetto CaccaBOT e dal relativo gruppo WhatsApp. In questo caso, l'account dell'utente sarà sottoposto alla Rimozione e l'utente non potrà più segnalare una cagata, non potendo così creare un nuovo account.
+
+<!--
+La pena inflitta a coloro che dichiarano il falso è la rimozione delle cacche dichiarate a proprio nome, ed in casi più gravi, il congelamento della possibilità di dichiarare nuove cagate.
+-->
 <!-- TOC --><a name="43-i-decreti-cagali"></a>
 ### 4.3) I DECRETI CAGALI
 
 <!-- TOC --><a name="5-collezionabili"></a>
 ## 5) COLLEZIONABILI
 
+## 6) MODIFICHE DELLA CACCSTITUZIONE
+
+
+
 <!-- TOC --><a name="6-crediti"></a>
-## 6) CREDITI
+## 7) CREDITI
 
 Questo documento è stato stilato dai seguenti contributori:
+- Alderighi Damiano
 - Benassai Samuele
 - Di Carlo Leonardo
-- Alderighi Damiano
