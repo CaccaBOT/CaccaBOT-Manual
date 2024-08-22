@@ -1,10 +1,10 @@
 
-<!-- TOC --><a name="la-caccstituzione-rev-6"></a>
-# LA CACCSTITUZIONE (Rev 6)
+<!-- TOC --><a name="la-caccstituzione-rev-7"></a>
+# LA CACCSTITUZIONE (Rev 7)
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-- [LA CACCSTITUZIONE (Rev 6)](#la-caccstituzione-rev-6)
+- [LA CACCSTITUZIONE (Rev 7)](#la-caccstituzione-rev-7)
    * [1) INTRODUZIONE](#1-introduzione)
    * [2) DISTINGUERE UNA CAGATA](#2-distinguere-una-cagata)
       + [2.1) COSA È UNA CAGATA](#21-cosa-è-una-cagata)
@@ -30,9 +30,7 @@
       + [4.1) GLI ORGANI SFINTERICI](#41-gli-organi-sfinterici)
          - [4.1.1) L’AGENZIA DELLE CAGATE](#411-lagenzia-delle-cagate)
             * [4.1.1.1) IL RUOLO DELL'AGENZIA DELLE CAGATE](#4111-il-ruolo-dellagenzia-delle-cagate)
-            * [4.1.1.2) I MEMBRI DELL'AGENZIA DELLE CAGATE](#4112-i-membri-dellagenzia-delle-cagate)
          - [4.1.2) IL TRIBUANALE](#412-il-tribuanale)
-            * [4.1.2.1) I MEMBRI DEL TRIBUANALE](#4121-i-membri-del-tribuanale)
       + [4.2) IL CODICE CAGALE](#42-il-codice-cagale)
          - [4.2.1) CASI NON DIRETTAMENTE REGOLAMENTATI](#421-casi-non-direttamente-regolamentati)
          - [4.2.2) INFRAZIONI MINORI](#422-infrazioni-minori)
@@ -219,7 +217,7 @@ Essa si riserva il diritto di richiedere contenuti multimediali ai contribuenti 
 ** BOZZA **
 ***********
 
-<!-- TOC --><a name="4112-i-membri-dellagenzia-delle-cagate"></a>
+<a name="4112-i-membri-dellagenzia-delle-cagate"></a>
 ##### 4.1.1.2) I MEMBRI DELL'AGENZIA DELLE CAGATE
 
 L'Agenzia delle Cagate è composto da un numero variabile di persone.
@@ -236,7 +234,7 @@ Il Tribuanale è un altro organo ufficiale del progetto CaccaBOT.
 Ad esso è assegnato il potere di decidere le pene assegnate a coloro che infrangono regole dettate dalla _Caccstituzione_ in casi non direttamente descritti dal _Codice Cagale, sez. 4.2_.
 
 <!--
-<!-- TOC --><a name="4121-i-membri-del-tribuanale"></a>
+<a name="4121-i-membri-del-tribuanale"></a>
 ##### 4.1.2.1) I MEMBRI DEL TRIBUANALE
 
 -->
