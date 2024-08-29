@@ -1,10 +1,9 @@
-
-<!-- TOC --><a name="la-caccstituzione-rev-7"></a>
-# LA CACCSTITUZIONE (Rev 7)
-
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-- [LA CACCSTITUZIONE (Rev 7)](#la-caccstituzione-rev-7)
+<!-- TOC --><a name="la-caccstituzione-rev-8"></a>
+# LA CACCSTITUZIONE (Rev 8)
+
+- [LA CACCSTITUZIONE (Rev 8)](#la-caccstituzione-rev-8)
    * [1) INTRODUZIONE](#1-introduzione)
    * [2) DISTINGUERE UNA CAGATA](#2-distinguere-una-cagata)
       + [2.1) COSA È UNA CAGATA](#21-cosa-è-una-cagata)
@@ -30,6 +29,7 @@
       + [4.1) GLI ORGANI SFINTERICI](#41-gli-organi-sfinterici)
          - [4.1.1) L’AGENZIA DELLE CAGATE](#411-lagenzia-delle-cagate)
             * [4.1.1.1) IL RUOLO DELL'AGENZIA DELLE CAGATE](#4111-il-ruolo-dellagenzia-delle-cagate)
+            * [4.1.1.2) I MEMBRI DELL'AGENZIA DELLE CAGATE](#4112-i-membri-dellagenzia-delle-cagate)
          - [4.1.2) IL TRIBUANALE](#412-il-tribuanale)
       + [4.2) IL CODICE CAGALE](#42-il-codice-cagale)
          - [4.2.1) CASI NON DIRETTAMENTE REGOLAMENTATI](#421-casi-non-direttamente-regolamentati)
@@ -44,10 +44,15 @@
             * [4.2.3.4) BAN DELL'UTENTE](#4234-ban-dellutente)
       + [4.3) I DECRETI CAGALI](#43-i-decreti-cagali)
    * [5) COLLEZIONABILI](#5-collezionabili)
-   * [6) MODIFICHE DELLA CACCSTITUZIONE](#6-modifiche-della-caccstituzione)
-   * [7) CREDITI](#7-crediti)
+   * [6) ACHIEVEMENTS](#6-achievements)
+   * [7) MODIFICHE](#7-modifiche)
+      + [7.1) IL FORM](#71-il-form)
+   * [8) LE PERSONE NOTE](#8-le-persone-note)
+      + [8.1) I MEMBRI DELL'AGENZIA DELLE CAGATE](#81-i-membri-dellagenzia-delle-cagate)
+      + [8.2) CREDITI](#82-crediti)
 
 <!-- TOC end -->
+
 
 <!-- TOC --><a name="1-introduzione"></a>
 ## 1) INTRODUZIONE
@@ -211,33 +216,16 @@ In genere, essa svolge controlli soltanto in casi sospetti o poco chiari.
 L'Agenzia delle Cagate è un organo fondamentale per il progetto CaccaBOT poichè si assicura che tutti i contribuenti stiano dichiarando correttamente le proprie cacche.
 Essa si riserva il diritto di richiedere contenuti multimediali ai contribuenti per dare prova delle loro attività intestinali (entro i limiti dettati dal _Codice Cagale_).
 
-<!--
-
-***********
-** BOZZA **
-***********
-
-<a name="4112-i-membri-dellagenzia-delle-cagate"></a>
+<!-- TOC --><a name="4112-i-membri-dellagenzia-delle-cagate"></a>
 ##### 4.1.1.2) I MEMBRI DELL'AGENZIA DELLE CAGATE
 
-L'Agenzia delle Cagate è composto da un numero variabile di persone.
-Ad ogni reset delle cagate (ogni mese) una votazione da parte di tutti i membri del progetto CaccaBOT deve essere eseguita. È valido anche astenersi dal voto.
-Ogni membro deve votare 5 membri distinti (compreso se stesso, eventualmente). I membri che hanno ottenuto più voti, fino a che si raggiungeranno metà delle votazioni totali, diventeranno i nuovi membri dell'Agenzia delle Cagate.
-Il membro tra la prima e la seconda metà delle votazioni farà parte dell'Agenzia. Se più membri in questa posizione hanno lo stesso numero di voti, tutti loro faranno parte dell'Agenzia.
-L'Agenzia deve avere un minimo di 3 persone (superando eventualmente la regola della metà dei voti).
--->
+Nell'Agenzia fanno parte i cosiddetti _Membri dell'Agenzia delle Cagate_, elencati nel _I Membri dell'Agenzia delle Cagate, sez. 8.1_.
 
 <!-- TOC --><a name="412-il-tribuanale"></a>
 #### 4.1.2) IL TRIBUANALE
 
 Il Tribuanale è un altro organo ufficiale del progetto CaccaBOT.
 Ad esso è assegnato il potere di decidere le pene assegnate a coloro che infrangono regole dettate dalla _Caccstituzione_ in casi non direttamente descritti dal _Codice Cagale, sez. 4.2_.
-
-<!--
-<a name="4121-i-membri-del-tribuanale"></a>
-##### 4.1.2.1) I MEMBRI DEL TRIBUANALE
-
--->
 
 <!-- TOC --><a name="42-il-codice-cagale"></a>
 ### 4.2) IL CODICE CAGALE
@@ -313,15 +301,40 @@ La pena inflitta a coloro che dichiarano il falso è la rimozione delle cacche d
 <!-- TOC --><a name="5-collezionabili"></a>
 ## 5) COLLEZIONABILI
 
-<!-- TOC --><a name="6-modifiche-della-caccstituzione"></a>
-## 6) MODIFICHE DELLA CACCSTITUZIONE
+<!-- TOC --><a name="6-achievements"></a>
+## 6) ACHIEVEMENTS
 
+<!-- TOC --><a name="7-modifiche"></a>
+## 7) MODIFICHE
 
+<!-- TOC --><a name="71-il-form"></a>
+### 7.1) IL FORM
 
-<!-- TOC --><a name="7-crediti"></a>
-## 7) CREDITI
+Tramite il Form, ogni utente può condividere proprie idee per il progetto CaccaBOT, in generale.
+Il Form è compilabile al seguente link: https://docs.google.com/forms/d/e/1FAIpQLSdLfTEASEb96vbTRplcNU0Y1PM8QYmdUT7oginiyAdj1skdoQ/viewform?usp=sf_link
+
+Il Form non è anonimo e permette ad ogni utente di inviare più risposte differenti.
+
+<!-- TOC --><a name="8-le-persone-note"></a>
+## 8) LE PERSONE NOTE
+
+<!-- TOC --><a name="81-i-membri-dellagenzia-delle-cagate"></a>
+### 8.1) I MEMBRI DELL'AGENZIA DELLE CAGATE
+
+I Membri dell'Agenzia delle Cagate sono:
+- BaDo
+- Bulletz
+- Grisello
+- iPerta
+- iQuick
+- PolpOnline
+- Sim0
+- Tommyx22
+
+<!-- TOC --><a name="82-crediti"></a>
+### 8.2) CREDITI
 
 Questo documento è stato stilato dai seguenti contributori:
-- Alderighi Damiano
-- Benassai Samuele
-- Di Carlo Leonardo
+- Grisello
+- iQuick
+- SunTzu
