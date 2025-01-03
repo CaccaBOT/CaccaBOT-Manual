@@ -1,4 +1,5 @@
 {
-    "path": "./README.md",
+    "srcFile": "./static/input.md",
+    "dstFile": "./static/output.md",
     "firstTitleOnTop": true
 }

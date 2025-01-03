@@ -1,4 +1,3 @@
-
 import { Title } from 'title'
 
 export function createTOCEntry(title: Title): string {

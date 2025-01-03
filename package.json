@@ -5,13 +5,13 @@
   "author": "",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon --watch src/**/*.ts --exec ts-node ./src/app.ts",
+    "dev": "nodemon --watch src/**/*.ts --exec ts-node ./src/index.ts",
     "build": "tsc",
-    "start": "node ./dist/app.js",
+    "start": "node ./dist/index.js",
     "format": "prettier --write src/**/*.ts"
   },
   "dependencies": {
-    "dotenv": "^16.4.7"
+
   },
   "devDependencies": {
     "@types/node": "^22.10.3",
