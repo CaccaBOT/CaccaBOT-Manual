@@ -1,5 +1,5 @@
 {
-    "srcFile": "./static/input.md",
-    "dstFile": "./static/output.md",
+    "srcFile": "./static/manual/input.md",
+    "dstFile": "./static/manual/output.md",
     "firstTitleOnTop": true
 }
